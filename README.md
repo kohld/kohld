@@ -1,7 +1,7 @@
 ## Hi, I'm Dennes!
 
 <p align="center">
-  <a href="https://github.com/kohld/github-readme-stats">
+  <a href="https://github.com/kohld/">
     <img src="https://github-readme-stats.vercel.app/api?username=kohld&rank_icon=github&show_icons=true&theme=github_dark" alt="Kohld's GitHub stats">
   </a>
 </p>

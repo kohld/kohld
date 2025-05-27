@@ -1,21 +1,24 @@
-## Hi, I'm Dennes!
+## Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
 <p align="center">
   <a href="https://github.com/kohld/">
     <img src="https://github-readme-stats.vercel.app/api?username=kohld&rank_icon=github&show_icons=true&theme=github_dark" alt="Kohld's GitHub stats">
   </a>
 </p>
-<!--
-**kohld/kohld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Some stuff about me ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```php
+<?php
+
+$kohld = [
+    "pronouns" => ["he", "him"],
+    "code" => ["PHP", "Twig", "Code Snippets", "MySQL"],
+    "tools" => ["Symfony", "Laravel", "Yii 2", "Pimcore", "Docker"],
+    "architecture" => ["Microservices"],
+    "specialty" => ["Deepening in legacy code"],
+    "challenge" => "I am trying to understand the magical React and Next.js"
+];
+
+?>
+```

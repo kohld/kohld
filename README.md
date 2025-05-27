@@ -1,7 +1,10 @@
 ## Hi, I'm Dennes!
 
-[![Kohld's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohld&rank_icon=github&show_icons=true&theme=github_dark)](https://github.com/kohld/github-readme-stats)
-
+<p align="center">
+  <a href="https://github.com/kohld/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=kohld&rank_icon=github&show_icons=true&theme=github_dark" alt="Kohld's GitHub stats">
+  </a>
+</p>
 <!--
 **kohld/kohld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

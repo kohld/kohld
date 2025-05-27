@@ -12,7 +12,7 @@
 <?php
 
 $kohld = [
-    "pronouns" => ["he", "him"],
+    "pronouns" => ["he/him"],
     "code" => ["PHP", "Twig", "Code Snippets", "MySQL"],
     "tools" => ["Symfony", "Laravel", "Yii 2", "Pimcore", "Docker"],
     "architecture" => ["Microservices"],

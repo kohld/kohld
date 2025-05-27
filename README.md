@@ -13,6 +13,7 @@
 
 $kohld = [
     "pronouns" => ["he/him"],
+    "profession" => ["Software Engineer | (PHP) Backend Developer"],
     "code" => ["PHP", "Twig", "Code Snippets", "MySQL"],
     "tools" => ["Symfony", "Laravel", "Yii 2", "Pimcore", "Docker"],
     "architecture" => ["Microservices"],

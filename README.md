@@ -18,6 +18,8 @@ $kohld = [
     "tools" => ["Symfony", "Laravel", "Yii 2", "Pimcore", "Docker"],
     "architecture" => ["Microservices"],
     "specialty" => ["Deepening in legacy code"],
+    "yearsOfExperience" => 10,
+    "jobseeking" => false,
     "challenge" => "I am trying to understand the magical React and Next.js"
 ];
 

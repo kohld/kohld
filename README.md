@@ -1,9 +1,9 @@
 ## Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 
 <p align="center">
-  <a href="https://github.com/kohld/">
+  <picture>
     <img src="https://github-readme-stats.vercel.app/api?username=kohld&rank_icon=github&show_icons=true&cache_seconds=21600&theme=github_dark&border_color=3d444d" alt="Kohld's GitHub stats">
-  </a>
+  </picture>
 </p>
 
 ### Some stuff about me ...

@@ -8,20 +8,16 @@
 
 ### Some stuff about me ...
 
-```php
-<?php
-
-$kohld = [
-    "pronouns" => ["he/him"],
-    "profession" => ["Software Engineer | (PHP) Backend Developer"],
-    "code" => ["PHP", "Twig", "Code Snippets", "MySQL"],
-    "tools" => ["Symfony", "Laravel", "Yii 2", "Pimcore", "Docker"],
-    "architecture" => ["Microservices"],
-    "specialty" => ["Deepening in legacy code"],
-    "yearsOfExperience" => 10,
-    "jobseeking" => false,
-    "challenge" => "I am trying to understand the magical React and Next.js"
-];
-
-?>
+```javascript
+const kohld: Kohld = {
+  pronouns: ["he/him"],
+  profession: ["Software Engineer | (PHP) Backend Developer"],
+  code: ["PHP", "Twig", "Code Snippets", "MySQL"],
+  tools: ["Symfony", "Laravel", "Yii 2", "Pimcore", "Docker"],
+  architecture: ["Microservices"],
+  specialty: ["Deepening in legacy code"],
+  yearsOfExperience: 10,
+  jobseeking: false,
+  challenge: "I am trying to understand the magical React and Next.js",
+};
 ```

@@ -2,7 +2,7 @@
 
 <p align="center">
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=kohld&rank_icon=github&show_icons=true&cache_seconds=21600&theme=github_dark&border_color=3d444d" alt="Kohld's GitHub stats">
+    <img src="/github-metrics.svg" alt="Kohld's GitHub stats">
   </picture>
 </p>
 

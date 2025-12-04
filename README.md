@@ -11,13 +11,13 @@
 ```javascript
 const kohld: Kohld = {
   pronouns: ["he/him"],
-  profession: ["Software Engineer | (PHP) Backend Developer"],
-  code: ["PHP", "Twig", "Code Snippets", "MySQL"],
-  tools: ["Symfony", "Laravel", "Yii 2", "Pimcore", "Docker"],
-  architecture: ["Microservices"],
-  specialty: ["Deepening in legacy code"],
+  title: "Software Engineer | (PHP) Backend Developer",
   yearsOfExperience: 10,
+  languages: ["PHP", "MySQL", "JavaScript", "Twig"],
+  frameworksAndTools: ["Symfony", "Laravel", "Yii 2", "Pimcore", "Docker"],
+  architecture: ["Microservices", "REST"],
+  expertise: "Refactoring, optimizing, and maintaining established codebases (Legacy Code)",
+  learning: "Demystifying the magic of React and Next.js",
   jobseeking: false,
-  challenge: "I am trying to understand the magical React and Next.js",
 };
 ```

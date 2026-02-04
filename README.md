@@ -18,6 +18,6 @@ const kohld: Kohld = {
   architecture: ["Microservices", "REST"],
   expertise: "Refactoring, optimizing, and maintaining established codebases (Legacy Code)",
   learning: "Demystifying the magic of React and Next.js",
-  jobseeking: false,
+  jobseeking: true,
 };
 ```

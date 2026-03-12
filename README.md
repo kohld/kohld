@@ -12,7 +12,7 @@
 const kohld: Kohld = {
   pronouns: ["he/him"],
   title: "Software Engineer | (PHP) Backend Developer",
-  yearsOfExperience: 10,
+  yearsOfExperience: 11,
   languages: ["PHP", "MySQL", "JavaScript", "Twig"],
   frameworksAndTools: ["Symfony", "Laravel", "Yii 2", "Pimcore", "Docker"],
   architecture: ["Microservices", "REST"],

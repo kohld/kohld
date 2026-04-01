@@ -11,13 +11,13 @@
 ```javascript
 const kohld: Kohld = {
   pronouns: ["he/him"],
-  title: "Software Engineer | (PHP) Backend Developer",
+  title: "Software Engineer | Backend Developer",
   yearsOfExperience: 11,
-  languages: ["PHP", "MySQL", "JavaScript", "Twig"],
+  languages: ["PHP", "MySQL", "JavaScript", "TypeScript", "Twig"],
   frameworksAndTools: ["Symfony", "Laravel", "Yii 2", "Pimcore", "Docker"],
   architecture: ["Microservices", "REST"],
-  expertise: "Refactoring, optimizing, and maintaining established codebases (Legacy Code)",
-  learning: "Demystifying the magic of React and Next.js",
+  expertise: "Refactoring, optimizing & maintaining established codebases",
+  learning: "Ansible, Terraform & modern DevOps practices",
   jobseeking: true,
 };
 ```

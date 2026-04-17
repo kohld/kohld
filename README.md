@@ -18,6 +18,6 @@ const kohld: Kohld = {
   architecture: ["Microservices", "REST"],
   expertise: "Refactoring, optimizing & maintaining established codebases",
   learning: "Ansible, Terraform & modern DevOps practices",
-  jobseeking: true,
+  jobseeking: false,
 };
 ```
